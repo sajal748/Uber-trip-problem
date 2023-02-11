@@ -1,0 +1,15 @@
+Observations:- 
+
+
+1. There are more cancelled trips when rides are from City to Airport
+2. There are more Not cabs found, when rides are from Airport to City
+3. huge spike of cancelled cars on Wednesday
+4.  huge no of cars are not available on Friday
+5. early morning (3 AM - 11 AM), cancellation is more than no cars available
+
+Findings:- 
+1.	Approx 60% of the rides are not being completed. It is a pressing issue for business
+2.	Rides from airport to city suffers from 'No cars Available' more than city to airport
+3.	As per the provided sample, it seems there is something happening on Wednesday,friday. It needs more attention
+4.	Late evenings(5 PM - 12 AM), we have a surge in no cars available
+5.	Early mornings(3 AM - 11 AM), cancellation is more than no cars available
